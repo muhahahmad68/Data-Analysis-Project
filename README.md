@@ -2,7 +2,7 @@ NB: This is a template to make documentation process easy. You can remove the `T
 
 # Project Title Here
 
-To-Do - Write a short project description here.
+To-Do - Analysis of Supermarket Data across 3 different locations in the country.
 
 # Project Steps
 
