@@ -2,15 +2,21 @@ NB: This is a template to make documentation process easy. You can remove the `T
 
 # Project Title Here
 
-To-Do - Analysis of Supermarket Data across 3 different locations in the country.
+Analysis of Supermarket Data across 3 different locations in the country.
 
 # Project Steps
 
-To-Do - Explain in detail, the project steps and overview of different tasks completed here.
+1. Importing of necessary libraries
+2. Reading our data to csv 
+3. Checking the shape and columns in the data
+4. Checking for null in the dataset
+5. Checking for appropriate datatypes in each columns
+6. Checking for categorical columns and getting some insight from there.
+7. Generating different charts to answer some important question.
 
 # Insights
 
-To-Do - Explain the insights you were able to uncover from the analysing the datasets.
+
 
 # Future Work
 
