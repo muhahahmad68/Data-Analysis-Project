@@ -1,0 +1,15 @@
+The dataset initially contains 1000 rows and 17 columns, all cell filled i.e no null valued was found.
+
+The branch in lagos has the highest number of costumers, followed by Abuja and closely port-harcout. Lagos as well bought the highest quantity of products.The branch with highest gross income is port-harcout with a total of #1895463.54
+
+January experience the highest number of sales. Of the product lines, fashion accessories was sold out most and 'Health and beauty' was least sold out
+
+Majority of customers paid with either Epay or Cash, large percentage of those that bought food and beverages paid using card, many of those that bought fashion accessories paid using Epay, many of those that bought electronic accessories paid using Cash, many of those that bought sport and travel accessories paid using cash, many of those that bought home and lifestyle paid using Epay, many of those that bought Health ans Beauty paid using Epay.
+
+A high percentage of those that paid using card are from branch B(Abuja), A high percentage of those that paid using Epay are from branch A(Lagos), A high percentage of those that paid using cash are from branch C(Port-harcout).
+
+Branch C has the highest rating, branch B being the lowest.
+
+Female costumers buy more quantities of product for each product line except for Health and Beauty. More females bouht food and beverages than males, more females bought fashion accessories than males, more females bought sport and travel than males, for electronic accessories and Home and lifestyle male bought more but just slightly ahead of females.For Health and Beauty males have the higher percantage of purchase.
+
+Fashion accessories and sport and travel has the highest unit price while electronics has the lowest.
