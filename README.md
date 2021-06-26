@@ -32,5 +32,3 @@ Majority of good sold per branch
 Use of violin plot.
 
 # Executive Summary.
-
-To-Do - Include your Executive Summary document in your repository.
